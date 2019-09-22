@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Photography Template",
+    "name": "Basbousa",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -52,8 +52,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Free HTML Bootstrap Photography Template",
-        "meta_descr": "New Bootstrap HTML Photography Template - Free Download",
+        "title": "Basbousa Bas",
+        "meta_descr": "Basbousa Bas",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
