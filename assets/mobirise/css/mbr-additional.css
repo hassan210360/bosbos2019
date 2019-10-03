@@ -1324,6 +1324,18 @@ section.lazy-placeholder:after {
 .cid-qx5qCE53C5 H3 {
   color: #ff7f9f;
 }
+.cid-rDQXFW6vqD {
+  background: #ffffff;
+}
+.cid-rDQXFW6vqD .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rDQXFW6vqD .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qypx6TNvtX {
   padding-top: 15px;
   padding-bottom: 0px;
